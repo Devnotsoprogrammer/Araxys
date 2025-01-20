@@ -1,0 +1,2 @@
+# KaizerBot
+A Moderation DiscordBot
