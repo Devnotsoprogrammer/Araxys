@@ -1,0 +1,9 @@
+{
+  "token": "Your Bot TOKEN",
+  "clientId": "",
+  "guildId": "",
+  "inviteLink": "",
+  "prefix": "*",
+  "mongoURI": "",
+  "googleApiKey": "YOUR_GOOGLE_API_KEY"
+}
