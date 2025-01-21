@@ -1,4 +1,4 @@
-# KaizerBot
+# AraxysBot
 A Moderation DiscordBot
 
 Note Must fill the Config.json with all correct information
